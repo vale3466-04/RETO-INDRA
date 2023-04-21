@@ -45,7 +45,7 @@ Nota:
 
 ## Ejecutar el proyecto
 Paso 1:
-Ejecutar el comando -> sls offline start
+Ejecutar el comando -> npm run start
 
 Paso 2:
 Probar la API.
